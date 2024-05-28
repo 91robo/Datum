@@ -1,9 +1,5 @@
 (
 {
-fetch('https://cors-anywhere.herokuapp.com/https://raw.githubusercontent.com/91robo/Datum/main/datum_new.txt')
-  .then(response => response.json())
-  .then(data => console.log(data))
-  .catch(error => console.error('Error:', error));
   "sEcho": "",
   "iTotalRecords": "3",
   "iTotalDisplayRecords": "3",
